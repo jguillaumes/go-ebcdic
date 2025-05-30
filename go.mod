@@ -1,4 +1,4 @@
-module github.com/indece-official/go-ebcdic
+module github.com/jguillaumes/go-ebcdic
 
 go 1.18
 
